@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Umorili</string>
+    <string name="ok_button">OK</string>
+    <string name="clear_button">Clear</string>
+    <string name="all_button">All</string>
+    
+    <string name="network_error">Network Error!</string>
+    <string name="unknown_error">Unknown Error!</string>
+    <string name="loading_source_of_quotes">Loading.</string>
+</resources>
